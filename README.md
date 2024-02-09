@@ -6,7 +6,7 @@
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/AdityaAtel/MoviehouseV20-?style=flat-square&color=yellow)](https://github.com/AdityaAtel/MoviehouseV20-/stargazers)
-[![Forks](https://img.shields.io/github/froks/AdityaAtel/MoviehouseV20-?style=flat-square&color=orange)](https://github/AdityaAtel/MoviehouseV20-/fork)
+[![Forks](https://img.shields.io/github/fork/AdityaAtel/MoviehouseV20-?style=flat-square&color=orange)](https://github/AdityaAtel/MoviehouseV20-/fork)
 [![Size](https://img.shields.io/github/repo-size/AdityaAtel/MoviehouseV20-?style=flat-square&color=green)](https://github.com/AdityaAtel/MoviehouseV20-)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrMKN/PROFESSOR-BOT)   
 
